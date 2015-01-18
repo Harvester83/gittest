@@ -1,3 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Newtimes</title>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+</head>
+<body>
 <?php
 $EuropeMainland = array(
     'Германия' => array(
@@ -84,3 +91,6 @@ $EuropeMainland = array(
         </li>
     <?php }?>
 </ul>
+</body>
+</html>
+
